@@ -1,6 +1,5 @@
 /* page width */
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-    max-width: 600px;
 }
 
 
@@ -83,6 +82,9 @@ body {
 
 
 body {
+
+--file-line-width:550px;
+
     --radius-s: 0px;
     --radius-m: 0px;
     --radius-l: 0px;
